@@ -1,0 +1,15 @@
+
+
+.Container{
+    background-image: url(./assets/background.png);
+    background-size: cover;
+    background-position: center;
+    padding: 0 7%;
+    font-family:'Times New Roman', Times, serif
+}
+
+@media screen and (min-width: 480px) {
+   .Container{
+    background-color: #fff;
+   }
+  }
